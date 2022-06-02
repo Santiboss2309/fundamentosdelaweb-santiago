@@ -13,3 +13,5 @@ Los parrafos se usan para insertar informacion, describciones, etc y su etiqueta
 Los vinculos son una etiqueta /*<a>*/ de anclaje usada para navegar en otras paginas y direcciones, para esto referencioamos los direccionamientos con /*<href>*/
 
 Los atributos son las propiedades y condiciones de las etiquetas /*<etiqueta Propiedad = "valor">*/ 
+
+El emphasis /*<em>*/ se usa para dar cursiva a la palabra y strong /*<strong>*/ se usa para la negrita de una palabra 
