@@ -20,3 +20,8 @@ Las listas se usan para ordenar articulos y bsu etiqueta es /*<ul>*/ para hacerl
 
 Las tablas ocupan la etiqueta /*<table>*/ y dentro de ella la etiqueta /*<tr>*/ para generar una fila, dentro de esa fila se usan las etiquetas /*<th>*/ o /*<td>*/ para describir encabezados o detalles regulares, respectivamente
 
+Para insertar una imagen usamos la etiqueta /*<img>*/ dentro de esta misma usamos /*"source" O "src"*/ para referenciar la imagen que queremos insertar y la etiqueta /*"alt"*/ para presentar una alternativa si no se encuentra el archivo 
+
+Para insertar un video usamos las etiquetas /*<video src = "nombredelvideo.mp4" controls>*/ las cuales nos presentaran el video con los botones de reproduccion 
+
+Tambien podemos poner los videos con las etiquetas /*<autoplay>*/, /*<loop>*/ y /*<muted>>*/ para asignar los controles automaticos: reproducir automaticamente, bucle, sin sonido, respectivamente 
