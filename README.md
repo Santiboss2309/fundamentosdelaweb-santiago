@@ -15,3 +15,8 @@ Los vinculos son una etiqueta /*<a>*/ de anclaje usada para navegar en otras pag
 Los atributos son las propiedades y condiciones de las etiquetas /*<etiqueta Propiedad = "valor">*/ 
 
 El emphasis /*<em>*/ se usa para dar cursiva a la palabra y strong /*<strong>*/ se usa para la negrita de una palabra 
+
+Las listas se usan para ordenar articulos y bsu etiqueta es /*<ul>*/ para hacerla con viñetas y /*<ol>*/ para ordenarla por numeros. Y para agregar articulos dentro de la lista se usa la etiqueta /*<li>*/
+
+Las tablas ocupan la etiqueta /*<table>*/ y dentro de ella la etiqueta /*<tr>*/ para generar una fila, dentro de esa fila se usan las etiquetas /*<th>*/ o /*<td>*/ para describir encabezados o detalles regulares, respectivamente
+
