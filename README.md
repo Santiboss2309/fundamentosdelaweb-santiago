@@ -10,3 +10,6 @@ Un encabezado es un tag que va del /*<h1>*/ hasta el /*<h6>*/
 
 Los parrafos se usan para insertar informacion, describciones, etc y su etiqueta es /*<p>*/
 
+Los vinculos son una etiqueta /*<a>*/ de anclaje usada para navegar en otras paginas y direcciones, para esto referencioamos los direccionamientos con /*<href>*/
+
+Los atributos son las propiedades y condiciones de las etiquetas /*<etiqueta Propiedad = "valor">*/ 
