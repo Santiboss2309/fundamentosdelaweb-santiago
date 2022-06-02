@@ -7,3 +7,6 @@ Las paginas web funcionan con un mecanismo de solicitud y respuesta, donde la "s
 2/06/2022
 
 Un encabezado es un tag que va del /*<h1>*/ hasta el /*<h6>*/
+
+Los parrafos se usan para insertar informacion, describciones, etc y su etiqueta es /*<p>*/
+
