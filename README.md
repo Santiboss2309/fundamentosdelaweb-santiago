@@ -29,3 +29,13 @@ Tambien podemos poner los videos con las etiquetas /*autoplay*/, /*loop*/ y /*mu
 07/06/2022
 
 HTML es padre de "head" y "body", al mismo tiempo estos dos son hermanos. head es padre de tittle y body es padre de h1 y p, estos ultimos son hermanos   
+
+Formularios: 
+
+-Tipos de entrada 
+Las entradas o "inputs" se clasifican en varios tipos, y se diferencian por sus elementos dentro de la etiqueta. Algunos de los mas comunes son:
+/input type=  name=/
+    
+    type= Text, number, password, date, color, radio, casilla de verificacion, area de texto, seleccionar, submit
+
+Los DIV: la etiqueta /div/ nos permite agrupar un grupo de etiquetas que tienen un proposito comun y poder manipular el contenido del div sin afectar el resto del codigo 
