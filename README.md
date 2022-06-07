@@ -25,3 +25,7 @@ Para insertar una imagen usamos la etiqueta /*img*/ dentro de esta misma usamos 
 Para insertar un video usamos las etiquetas /*video src = "nombredelvideo.mp4" controls*/ las cuales nos presentaran el video con los botones de reproduccion 
 
 Tambien podemos poner los videos con las etiquetas /*autoplay*/, /*loop*/ y /*muted*/ para asignar los controles automaticos: reproducir automaticamente, bucle, sin sonido, respectivamente 
+
+07/06/2022
+
+HTML es padre de "head" y "body", al mismo tiempo estos dos son hermanos. head es padre de tittle y body es padre de h1 y p, estos ultimos son hermanos   
