@@ -1,0 +1,18 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-style: italic;
+}
+span {
+    color: aqua;
+}
+h2 {
+    background-color: #620096;
+    color: white;
+    text-align: center;
+}
+h3 {
+    text-align: end;
+    background-color: #7cdaf9;
+    color: #620096;
+}
