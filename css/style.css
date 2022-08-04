@@ -2,6 +2,7 @@ h1 {
     background-color: black;
     color: white;
     font-style: italic;
+    width: 100%;
 }
 span {
     color: aqua;
@@ -10,9 +11,14 @@ h2 {
     background-color: #620096;
     color: white;
     text-align: center;
+    width: 100%;
 }
-h3 {
+h3 {        
     text-align: end;
     background-color: #7cdaf9;
     color: #620096;
+    width: 100%;
+}
+body {
+    overflow: scroll;
 }
