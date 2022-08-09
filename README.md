@@ -35,7 +35,20 @@ Formularios:
 -Tipos de entrada 
 Las entradas o "inputs" se clasifican en varios tipos, y se diferencian por sus elementos dentro de la etiqueta. Algunos de los mas comunes son:
 /input type=  name=/
-    
-    type= Text, number, password, date, color, radio, casilla de verificacion, area de texto, seleccionar, submit
+
+type= Text, number, password, date, color, radio, casilla de verificacion, area de texto, seleccionar, submit
 
 Los DIV: la etiqueta /div/ nos permite agrupar un grupo de etiquetas que tienen un proposito comun y poder manipular el contenido del div sin afectar el resto del codigo 
+
+16/06/2022
+
+CSS
+
+Selectores basicos:
+
+- Para mencionar las etiquetas solo se escribe la etiqueta (h1)
+- Para mencionar los "class" se usa un punto antes del nombre de la clase 
+- Para referenciar un "id" en css usamos la tecla # antes del nombre del id 
+- El comodin (*) se usa para seleccionar todo
+- Para referenciar una etiqueta dentro de un div para editar solo esa, mencionamos la clase y seguido la etiqueta
+- 
