@@ -1,5 +1,5 @@
 .container {
-    display: flex;
+    display: inline-block;
     width: 950px;
     background-color: silver;
     margin: 0px auto;
