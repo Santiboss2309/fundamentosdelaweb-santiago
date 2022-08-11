@@ -1,9 +1,10 @@
 .container {
-    display: inline-block;
+    display: flex;
     width: 950px;
     background-color: silver;
     margin: 0px auto;
     margin: 1%;
+    align-items: center;
 }
 .top-nav {
     height: 150px;
@@ -27,12 +28,15 @@
     width: 210px;
     background-color: yellow;
     display: inline-block;
+    align-items: center;    
     margin: 1%;
+
 }
 #advertisement {
     height: 120px;
     width: 660px;
     background-color: purple;
+    align-items: center;
     margin: 1%;
 }
 .side-nav, .main {
