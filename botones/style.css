@@ -1,0 +1,57 @@
+#boton1 {
+    padding: 10px 10px 10px 10px;
+}
+#boton2 {
+    padding: 10px 10px 10px 10px;
+}
+#boton3 {
+    padding: 10px 10px 10px 10px;
+}
+.search {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+.search:active {
+    background-color: #04AA6D;
+    transform: translateY(4px);
+}
+.mas {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.mas:active {
+    background-color: #04AA6D;
+    transform: translateY(4px);
+}
+.create-account {
+    background-color: #079fdb;  
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 10px 5px 5px black;
+    color: white; 
+    cursor: pointer;
+}
+.create-account:active {
+    background-color:hsl(197, 94%, 39%);
+    transform: translateY(4px);
+}
